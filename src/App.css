@@ -1,0 +1,13 @@
+button {
+  margin-top: -15px;
+}
+
+input {
+  width: 300px !important;
+}
+
+#url {
+  color: rgb(61, 149, 207);
+  cursor: pointer;
+  user-select: none;
+}
